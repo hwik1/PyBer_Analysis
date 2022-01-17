@@ -62,11 +62,11 @@ After completing the analysis it was clear that there are a number of difference
 * **Average Fare per Driver:** The average fare per driver is lowest in urban cities and highest in rural areas.
     Urban cities had the lowest average fare per driver at $16.57, driven by the amount of drivers. As mentioned above, some of the urban drivers didn't even complete a ride during this time period, but we still used the total urban driver count when dividing total fares by total drivers to get the average fare per driver.
 
-* **Fare by City Type by Week:** When looking at fare data by city type by week, the three city types followed a somewhat similar profile (peak toward the end of February before tapering off the first week of March, but urban and suburban cities saw a steep decline in total fare during the first week of April that did not show up in the same way in rural cities. Urban and suburban cities saw a 66-68% week over week decline in total fares during the first week of April, but rural was only down 11% compared to the prior week. Overall, rural fares were much more stable across March and April than urban or suburban cities, as you can see in the multiple line chart below.
+* **Fare by City Type by Week:** Fares by city type by week are shown in the multiple line chart below for weeks from 1/1/2019 to 4/28/2019. The chart is another resource that helps you visualize how much more in fares is collected from urban city types each week versus suburban and rural. Rural clearly contributes the least to total fares with a peak of just over $500 for the week ending 4/7/2019, which is still significantly lower than fares for urban and suburban. There are no weeks where suburban earned more fares than urban or rural more than suburban.
 
     _Total Fare by City Type by Week Line Chart_
     
-    ![PyBer_fare_summary](https://user-images.githubusercontent.com/93058069/149689105-7a9d0ce4-2546-44e9-b82d-c8e371c9138f.png)
+    ![image](https://user-images.githubusercontent.com/93058069/149823870-64d26c27-4236-48c3-bcd0-21a346a547ec.png)
 ___
 # Summary
 Based on the results of the analysis, here are three recommendations for the CEO to address disparities among the city types:
